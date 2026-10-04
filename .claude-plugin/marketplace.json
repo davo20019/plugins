@@ -1,0 +1,18 @@
+{
+  "name": "davo20019",
+  "description": "Plugins and agent skills by David Loor",
+  "owner": {
+    "name": "David Loor",
+    "url": "https://github.com/davo20019"
+  },
+  "plugins": [
+    {
+      "name": "building-3d-replicas",
+      "source": {
+        "source": "github",
+        "repo": "davo20019/building-3d-replicas"
+      },
+      "description": "Exact 3D replicas of real objects from photos: code-CAD, fitted cameras, measurement, Blender, GLB"
+    }
+  ]
+}
